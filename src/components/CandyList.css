@@ -1,0 +1,37 @@
+/* CandyList.css */
+/* Add your CSS styles here */
+.candy-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  background-color: #f9f9f9;
+}
+
+.candy-name {
+  font-weight: bold;
+}
+
+.candy-description {
+  font-style: italic;
+}
+
+.candy-price {
+  color: green;
+}
+
+.buy-buttons {
+  margin-top: 10px;
+}
+
+.buy-button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.buy-button:hover {
+  background-color: #0056b3;
+}
